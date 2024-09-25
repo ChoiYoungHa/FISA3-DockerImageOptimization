@@ -146,7 +146,8 @@ mv  dist_linux/slim-sensor /usr/local/bin/
 docker-slim build --tag spring_optimization:2.0 spring_optimization:1.0
 ```
 <br>
-**Docker Slim 적용 전 이미지 크기:** 245MB
+
+**Docker Slim 적용 전 이미지 크기:** 245MB<br>
 **Docker Slim 적용 후 이미지 크기:** 194MB
 
 ## 🎨 최종 실행 결과
